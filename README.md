@@ -69,11 +69,14 @@ This repository will reflect not only the significance of a VPN (Virtual Private
   
 - Once you’ve logged in, the app will launch and you will be put in the dashboard. On the left, you can see the free locations we can connect to.
   
--After choosing your country/region want to the VPN to operate in, click Connect. This will take a minute or two. Once you’ve connected it will say Connected at the top. 
+- After choosing your country/region want to the VPN to operate in, click Connect. This will take a minute or two. Once you’ve connected it will say Connected at the top. 
   
 - You can click the Disconnect button on the left to disconnect. You can also see your new IP address on the left along with the speed of your connection.
-
+  
+![image](https://github.com/jaleel19/VPN-setup-via-Protov-VPN/assets/131309894/949be7b6-0469-417f-bb8f-b6d901063b2e)
   
 - To test the VPN do the following: go to a browser and type in “what’s my ip address” into Google, it should match the IP address in the Proton VPN app.
   
 - We can search for other websites in Google and the search results will be from the country you selected.
+  
+![image](https://github.com/jaleel19/VPN-setup-via-Protov-VPN/assets/131309894/f1a22fad-ae00-4569-bdf2-8954a7509af5)
