@@ -14,7 +14,7 @@ This repository will reflect not only the significance of a VPN (Virtual Private
 - Windows 10 Pro(21H2)
 
   
-<h2> Configuaration Steps: <h2>
+<h2> Configuration Steps: <h2>
     
 - Log in to Microsoft Azure
     
