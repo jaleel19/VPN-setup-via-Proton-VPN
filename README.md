@@ -1,4 +1,4 @@
-# VPN-setup-via-Protov-VPN
+# VPN-setup-via-Proton-VPN
 This repository will reflect not only the significance of a VPN (Virtual Private Network), but it will also display how to install and utilize a VPN
 
 
