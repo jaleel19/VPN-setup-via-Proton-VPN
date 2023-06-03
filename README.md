@@ -11,19 +11,19 @@ This repository will reflect not only the significance of a VPN (Virtual Private
   
 <h2> Operating Systems Used in this project: <h2>
     
-    - Windows 10 Pro(21H2)
+- Windows 10 Pro(21H2)
 
   
 <h2> Configuaration Steps: <h2>
     
-    - Log in to Microsoft Azure
+- Log in to Microsoft Azure
     
-    - Create a Virtual Machine 
+- Create a Virtual Machine 
     
-    - Connect to Windows 10 Pro using Remote Desktop
+- Connect to Windows 10 Pro using Remote Desktop
     
-    - Download ProtonVPN
+- Download ProtonVPN
     
-    - Setup VPN connection
+- Setup VPN connection
     
-    - Test VPN
+- Test VPN
